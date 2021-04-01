@@ -21,6 +21,9 @@ then run the folowing commands
      cp .env.example .env
 
 
+go to .env and setup your database
+
+
      php artisan migrate
 
 
