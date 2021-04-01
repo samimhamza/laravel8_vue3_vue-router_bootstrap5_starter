@@ -1,6 +1,6 @@
 # Laravel8_vue3_vue-router_bootstrap5_starter
 
-It's a pre-configured project using Laravel 8, Vue 3, vue router and bootstrap 5
+It's a pre-configured project using Laravel 8, Vue 3, Vue router and Bootstrap 5
 
 to get it up and run, just clone it and enjoy coding :
 
