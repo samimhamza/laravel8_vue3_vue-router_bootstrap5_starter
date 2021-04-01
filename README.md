@@ -2,7 +2,7 @@
 
 It's a pre-configured project using Laravel 8, Vue 3, vue router and bootstrap 5
 
-to get it up and run just clone it and enhoy coding :
+to get it up and run, just clone it and enjoy coding :
 
      git clone https://github.com/samimhamza7/laravel8_vue3_vue-router_bootstrap5_starter.git
 
