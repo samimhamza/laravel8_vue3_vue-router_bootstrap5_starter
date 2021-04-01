@@ -10,7 +10,7 @@ to get it up and run just clone it and enhoy coding :
 
 
 
-then run the folowing commands 
+then run the following commands 
 
      composer install
 
@@ -21,7 +21,8 @@ then run the folowing commands
      cp .env.example .env
 
 
-go to .env and setup your database
+go to .env and setup your database and then run the following commands
+
 
 
      php artisan migrate
